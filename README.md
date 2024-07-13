@@ -2,14 +2,10 @@
 <h1 align="center">Hi 👋, I'm Harshith Tenneri</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
-
-
-
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Harshith&label=Profile%20Views&icon=2&pretty=false" />
 </a>
-
 
 - 🔭 I’m currently working on **End To End Cricket Data Analytics Project**
 
@@ -69,10 +65,24 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiharshith05&show_icons=true&locale=en&layout=compact" alt="saiharshith05" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiharshith05&show_icons=true&locale=en&layout=compact&bg_color=152238&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff" alt="saiharshith05" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiharshith05&show_icons=true&locale=en" alt="saiharshith05" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiharshith05&show_icons=true&locale=en&bg_color=152238&text_color=ffffff&title_color=ffffff&icon_color=006633&ring_color=b1fed8&border_color=ffffff" alt="saiharshith05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiharshith05&" alt="saiharshith05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiharshith05&background=152238&border=ffffff&stroke=ffffff&ring=E33319&fire=E33319&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="saiharshith05" /></p>
+
