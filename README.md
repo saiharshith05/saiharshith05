@@ -80,9 +80,10 @@
   
 </p>
 
+<h3 align="left">GitHub Status:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiharshith05&show_icons=true&locale=en&layout=compact&bg_color=152238&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff" alt="saiharshith05" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiharshith05&show_icons=true&locale=en&bg_color=152238&text_color=ffffff&title_color=ffffff&icon_color=006633&ring_color=b1fed8&border_color=ffffff" alt="saiharshith05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiharshith05&background=152238&border=ffffff&stroke=ffffff&ring=E33319&fire=E33319&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="saiharshith05" /></p>
-
