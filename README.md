@@ -7,9 +7,9 @@
   <img src="https://views.igorkowalczyk.dev/api/badge/saiharshith05?style=classic&color=blue" alt="GitHub Profile Views" />
 </p>
 
-- 🔭 I’m currently working on **End To End Cricket Data Analytics Project**
+- 🔭 I’m currently working in **Cognizant as a Data Engineer**
 
-- 🌱 I’m currently learning **Web Scraping , Power BI**
+- 🌱 I’m currently deep diving **Java + Dsa**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saiharshith05](https://github.com/saiharshith05)
 
