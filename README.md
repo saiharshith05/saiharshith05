@@ -3,9 +3,9 @@
 <h3 align="center">A Passionate Software Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Harshith&label=Profile%20Views&icon=2&pretty=false" />
-</a>
+<p align="left">
+  <img src="https://views.igorkowalczyk.dev/api/badge/saiharshith05?style=classic&color=blue" alt="GitHub Profile Views" />
+</p>
 
 - 🔭 I’m currently working on **End To End Cricket Data Analytics Project**
 
